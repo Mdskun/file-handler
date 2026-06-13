@@ -1,0 +1,10 @@
+{
+    "delimiter": ",",
+    "quotechar": "\"",
+    "quoting": 0,
+    "escapechar": null,
+    "lineterminator": "\r\n",
+    "skipinitialspace": false,
+    "doublequote": false,
+    "dialect_name": "type"
+}
